@@ -8,4 +8,10 @@ then
 else
    CMD=$1
 fi
-for f in $(ls -r -1 *); do echo =====; echo $f; echo ======; echo -e; $CMD $f ; echo -e; done
+for f in $(ls -r -1 *)
+do 
+   echo =====; echo $f; echo ======; echo -e
+   $CMD $f 
+   echo ---------------------------
+   echo -e
+done

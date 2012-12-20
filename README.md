@@ -1,4 +1,4 @@
-# My ~/bin on mac mašini
+# My ~/bin (mac)
 
 # Instalacija
 
@@ -15,7 +15,7 @@
      - `trf18` - trello F18
      - `trops` - trello F18
  - `zimbra` - zimbra
- - `foreach_file_do  some_command` - za svaki fajl u direktorij pokreni "some command"
- - ssh
+ - `for_each_file_do`
+    - `foreach_file_do cat` - izlistaj sadrzaj svih fajlova
+ - ssh (fljas public key) 
      - ssh_builder
-     - xssh_builder  
