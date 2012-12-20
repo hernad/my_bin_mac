@@ -3,7 +3,7 @@
 # Instalacija
 
   cd ~
-  git clone git://github.com/hernad/my_mac_bin_dir bin
+  git clone git://github.com/hernad/my_bin_mac bin
 
 # Usage
 
