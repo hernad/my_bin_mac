@@ -1,5 +1,0 @@
-#!/bin/bash
-
-ssh -i ~/.ssh/fljas bringout@192.168.45.136
-
-

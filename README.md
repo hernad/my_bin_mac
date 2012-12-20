@@ -7,7 +7,15 @@
 
 # Usage
 
- komanda   svrha              
---------- -------------------------------- 
-ghh       open github hernad  
-ghr       open github knowhow 
+ - github
+    - `ghh` - open github hernad  
+    - `ghr` - github knowhow 
+ -  trello
+     - `tragile` - trello projekat Agile softwware toolbox
+     - `trf18` - trello F18
+     - `trops` - trello F18
+ - `zimbra` - zimbra
+ - `foreach_file_do  some_command` - za svaki fajl u direktorij pokreni "some command"
+ - ssh
+     - ssh_builder
+     - xssh_builder  
