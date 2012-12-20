@@ -17,5 +17,9 @@
  * `zimbra` - zimbra bring.out
  * `for_each_file_do`
    - `foreach_file_do cat` - izlistaj sadrzaj svih fajlova
+ * google code downloads
+   - `gcodeknow` - knowhow ERP 
+   - `gcodefmk` - FMK
+   - `gcodef18` - F18
  * ssh (fljas public key) 
     - ssh_builder
