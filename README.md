@@ -7,6 +7,8 @@
 
 # Usage
 
++---------+---------------------+
 | komanda | svrha               |
++---------+---------------------+
 | ghh     | open github hernad  |
 | ghr     | open github knowhow |
