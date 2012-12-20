@@ -14,7 +14,7 @@
    - `tragile` - Agile software toolbox
    - `trf18` - F18
    - `trops` - IT operations
- * `zimbra` - zimbra
+ * `zimbra` - zimbra bring.out
  * `for_each_file_do`
    - `foreach_file_do cat` - izlistaj sadrzaj svih fajlova
  * ssh (fljas public key) 
